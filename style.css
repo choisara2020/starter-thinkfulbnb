@@ -106,6 +106,7 @@ header nav ul li a:hover {
 form {
   border: 2px solid #ff385c;
   padding: 10px;
+  display: flex;
 }
 
 form label {
@@ -179,7 +180,7 @@ footer p {
 
   /* rule for Form area */
 
-@media all and (min-width: 1200px) {
+@media all and (min-width: 600px) {
   .form-container {
     display: flex;
     justify-content: space-between;
