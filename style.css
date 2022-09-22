@@ -106,6 +106,7 @@ header nav ul li a:hover {
 form {
   border: 2px solid #ff385c;
   padding: 10px;
+  /* display: flex; */
 }
 
 form label {
@@ -124,7 +125,7 @@ form button {
   color: #fff;
   font-size: 24px;
   padding: 15px;
-  width: 100%;
+  width: 80%;
 }
 
 .date::placeholder {
